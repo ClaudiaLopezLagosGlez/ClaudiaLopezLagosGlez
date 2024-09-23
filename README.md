@@ -1,7 +1,4 @@
-- 🌺 Hi, I’m @ClaudiaLopezLagosGlez
-- 🏆 I’m interested in becoming a Full Stack Developer 
-- 🌱 I’m currently learning at MIT Xpro 
-- 💞️ I’m looking to collaborate in the tech and design industry. 
+
 
 
 <!---
